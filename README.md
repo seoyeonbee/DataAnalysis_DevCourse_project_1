@@ -14,4 +14,4 @@ COVID-19 전·후 국내 온라인 쇼핑 소비 패턴 분석
 - 프레젠테이션 제작
 
 ### 프로젝트 보고서
-[프로젝트 보고서](https://drive.google.com/file/d/1zlB1yd1GjUmowAlZLRPS2jTK8Or1ErjZ/view?usp=drive_link)
+[프로젝트 보고서]()
